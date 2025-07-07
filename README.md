@@ -29,7 +29,11 @@ This project is under the [MIT License]. You are free to use, modify, and share 
 ## Note
 You can find the full tutorial here 
 https://www.youtube.com/watch?v=5266en9bae0&list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8&index=8
+
+
 Check out Baraa's  SQL data warehouse project repository 
+
+
 https://github.com/DataWithBaraa/sql-data-warehouse-project
 
 ---
